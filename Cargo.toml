@@ -1,9 +1,15 @@
 [package]
-name = "passgen"
-version = "0.1.0"
+name = "passworder"
+version = "0.1.1"
 edition = "2021"
-
-# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+license = "Apache-2.0"
+description = "A simple strong password generator"
+homepage = "https://github.com/safe-stash/password-generator"
+# documentation = ""
+repository = "https://github.com/safe-stash/password-generator"
+readme = "README.md"
+keywords = ["cryptography", "password", "generator", "password-generator"]
+categories = ["cryptography"]
 
 [dependencies]
 rand = "0.8.5"
