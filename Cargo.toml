@@ -1,12 +1,12 @@
 [package]
 name = "passworder"
-version = "0.1.1"
+version = "0.1.2"
 edition = "2021"
 license = "Apache-2.0"
 description = "A simple strong password generator"
-homepage = "https://github.com/safe-stash/password-generator"
+homepage = "https://github.com/safe-stash/passworder"
 # documentation = ""
-repository = "https://github.com/safe-stash/password-generator"
+repository = "https://github.com/safe-stash/passworder"
 readme = "README.md"
 keywords = ["cryptography", "password", "generator", "password-generator"]
 categories = ["cryptography"]
