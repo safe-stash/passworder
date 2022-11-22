@@ -1,2 +1,2 @@
 # passworder
-A simple strong password generator
+A simple yet strong password generator
